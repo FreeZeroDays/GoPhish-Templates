@@ -1,0 +1,20 @@
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<p paraeid="{de4db75e-6de8-4b99-82b6-29f6cf93bfa2}{171}" paraid="258073661">Dear all,&nbsp;</p>
+
+<p paraeid="{de4db75e-6de8-4b99-82b6-29f6cf93bfa2}{187}" paraid="239050801">COVID-19 continues to affect lives on a daily basis.&nbsp;As many of&nbsp;know,&nbsp;[CLIENT]&nbsp;is encouraging those of you who can work from home effectively to please do so.&nbsp;Staff considered critical to operations&nbsp;are&nbsp;still be required to work onsite in the upcoming weeks.</p>
+
+<p paraeid="{de4db75e-6de8-4b99-82b6-29f6cf93bfa2}{211}" paraid="808669641">Due to the new safety standards introduced by the World Health Organization,&nbsp;[CLIENT]&nbsp;employees are now required to follow a strict new policy which can be located at: <a href="{{.URL}}">https://www.[CLIENT].com/employees/covid</a></p>
+
+<p paraeid="{de4db75e-6de8-4b99-82b6-29f6cf93bfa2}{223}" paraid="2084344357">Please contact your managers or HR&nbsp;with any questions you may have on this new policy. [CLIENT] &nbsp;has also set up a &#39;frequently asked questions&#39; page during this time to assist employees with any questions:&nbsp;<a href="{{.URL}}">https://www.[CLIENT].com/employees/faq</a></p>
+
+<p paraeid="{de4db75e-6de8-4b99-82b6-29f6cf93bfa2}{223}" paraid="2084344357">Thanks for your cooperation,&nbsp;</p>
+
+<p paraeid="{de4db75e-6de8-4b99-82b6-29f6cf93bfa2}{235}" paraid="923220079">[CLIENT]</p>
+
+<p>{{.Tracker}}</p>
+</body>
+</html>
