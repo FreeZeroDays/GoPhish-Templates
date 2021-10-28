@@ -4,6 +4,6 @@ This repository includes several GoPhish templates that I have used throughout v
 
 The most important part of a successful phish is time and effort!
 
-# GoPhish 
+## GoPhish 
 Gophish is a powerful, open-source phishing framework. [GoPhish](https://getgophish.com) is avaialble for free.
 
