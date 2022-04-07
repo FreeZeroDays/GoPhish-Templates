@@ -5,9 +5,9 @@ This repository includes several GoPhish templates that I have utilized througho
 When learning how to setup and use GoPhish I found that there was a lack of publicly available phishing templates and landing pages. This repository is my go to give back to the InfoSec community and provide examples of templates that I've used throughout generic phishing engagements. 
 
 ## Clicking = Fail & Other Thoughts
-When launching a campaign with GoPhish my goal is to always try and obtain credentials from the user. While attacks can be executed from a user clicking an email (looking at you BeEF), 9/10 when I'm on a penetration test, credentials are what I am hoping for. These campaigns are best paired with a good landing page or document. 
+When launching a campaign with GoPhish my goal is to always try and obtain credentials from the user. While attacks can be executed from a user clicking an email (looking at you BeEF), 9/10 when I'm on a penetration test, credentials are what I am hoping for. These campaigns are best paired with a good landing page or malicious document. 
 
-I highly recommend when tailoring these pretexts and landing pages to your client. That means you should definitely clone a login portal from their website or create a convincing landing page. Remember, we potentially only need to land one successful phish to go crazy.
+I highly recommend you tailor these pretexts and landing pages to your client. That means you should definitely clone a login portal from their website or create a convincing landing page to be used throughout more generic campaigns (e.g., 3rd party login). Remember, we potentially only need to land one successful phish to go masterhacker mode.
 
 However, I do want to state that users who click an email still provide me with some interesting information:
 1. The email address is valid.
